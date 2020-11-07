@@ -10,3 +10,8 @@ Dataset: http://benchmark.ini.rub.de/?section=gtsrb&subsection=dataset
 This dataset contains more than 50,000 annotated images of 40+ traffic signs.
 
 ![](images/traffic.png)
+
+
+## ResNet34
+
+![](images/resnet34.jpg)
