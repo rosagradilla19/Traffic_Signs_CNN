@@ -16,6 +16,11 @@ This dataset contains more than 50,000 annotated images of 40+ traffic signs.
 
 ![](images/resnet34-1.png)
 
+I tried training the classifier with 4 classes out of the 43 traffic signs. Then I trained it on ALL 43 classes and compared it. Both classifiers did a very good job at learning the classes. Here are the reults for the one with 4 classes:
+
 ## Results
 
 ![](images/cm.jpg)
+
+and the one with ALL 43 classes:
+
