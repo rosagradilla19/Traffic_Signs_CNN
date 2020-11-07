@@ -21,9 +21,11 @@ I tried training the classifier with 4 classes out of the 43 traffic signs. Then
 ## Results for classifier with 4 classes
 
 ![](images/cm.jpg)
+![](images/history4.jpg)
 
 and the one with ALL 43 classes:
 
 ## Results for classifier with 43 classes
 
 ![](images/cm23.png)
+![](images/history43.jpg)
