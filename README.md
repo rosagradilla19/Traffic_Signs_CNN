@@ -14,4 +14,4 @@ This dataset contains more than 50,000 annotated images of 40+ traffic signs.
 
 ## ResNet34
 
-![](images/resnet34.jpg)
+![](images/resnet34-1.png)
